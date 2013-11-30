@@ -31,7 +31,7 @@ entry_points = {
 setup(
     name='miraclelight',
     version=version,
-    description="Testing With Precure.",
+    description="The Python TestRunner by battle heroine \"Pretty Cure\".",
     long_description=long_description,
     classifiers=[
         "Development Status :: 3 - Alpha",
